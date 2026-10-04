@@ -1,2 +1,13 @@
-healthcare-backend/.env
+# Secrets
+.env
+**/.env
+
+# Dependencies
 node_modules/
+
+# Build output
+healthcare-frontend/build/
+
+# System files
+.DS_Store
+Thumbs.db
